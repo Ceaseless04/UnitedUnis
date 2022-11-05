@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    width: auto;
+}
+
+/*styling for the body: color, width, etc.*/
+body {
+    background-color: #f2f2f2;
+    width: inherit;
+}
+
+.login {
+    font-family: 'M PLUS 1', sans-serif, 'Rubik', sans-serif;
+}
